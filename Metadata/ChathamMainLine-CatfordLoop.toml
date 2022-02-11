@@ -1,6 +1,6 @@
 rly_file = "ChathamMainLine-CatfordLoop.rly"
 ttb_files = []
-img_files = []
+img_files = [ "ChathamMainLine-CatfordLoop.png",]
 doc_files = [ "README.md",]
 release_date = "2022-02-11"
 version = "1.0.0"
